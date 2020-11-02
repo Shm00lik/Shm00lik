@@ -26,4 +26,4 @@ print(languages)
 
 ```
 
-![Pfp](https://imgur.com/V0F5Rkf)
+![](https://imgur.com/V0F5Rkf.gif)
