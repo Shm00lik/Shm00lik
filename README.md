@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # *Shmoolik*
 ```py
-from shmoolik import details
+from Shmoolik import details
 
 languages = details['languages']
 print(languages)
@@ -26,6 +26,4 @@ print(languages)
 
 ```
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shm00lik&theme=dark" />
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shm00lik&theme=dark)
+![Pfp](https://imgur.com/V0F5Rkf)
