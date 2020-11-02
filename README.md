@@ -28,4 +28,4 @@ print(languages)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shm00lik&theme=dark" />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Shm00lik)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shm00lik&theme=dark)
