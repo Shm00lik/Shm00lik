@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# *Shmoolik*
+```py
+from shmoolik import details
+
+languages = details['languages']
+print(languages)
+
+>> Python
+
+```
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shm00lik&theme=dark" />
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Shm00lik)
