@@ -5,13 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on my discord bot, _Sharky_...
+- 🌱 I’m currently learning C#, Unity...
+- 👯 I’m looking to collaborate on discord bot...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 💬 Ask me about everything I know...
+- 📫 How to reach me: 
+        Discord: Shmoolik#4454
+- 😄 Pronouns: Shmoolik
 - ⚡ Fun fact: ...
 -->
 
@@ -22,8 +23,28 @@ from Shmoolik import details
 languages = details['languages']
 print(languages)
 
->> Python
+discord = details['discord']
+print(discord)
 
+discord_bot = details['discord_bot']
+print(discord_bot)
+
+======================================
+
+>>> Python
+>>> Shmoolik#4454
+>>> Sharky#9955
 ```
+
+- 🔭 I’m currently working on my discord bot, _Sharky_
+
+- 🌱 I’m currently learning C#, Unity
+
+- 👯 I’m looking to collaborate on discord bot
+
+- 💬 Ask me about everything I know
+
+- 📫 How to reach me: \
+        Discord; Shmoolik#4454
 
 ![](https://imgur.com/V0F5Rkf.gif)
