@@ -36,7 +36,7 @@ print(discord_bot)
 >>> Sharky#9955
 ```
 
-- 🔭 I’m currently working on my discord bot, _Sharky_
+- 🔭 I’m currently working on my discord bot, [_Sharky_](https://github.com/Shm00lik/Sharky)
 
 - 🌱 I’m currently learning C#, Unity
 
